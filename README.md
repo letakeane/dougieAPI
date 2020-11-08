@@ -1,5 +1,12 @@
 # API for Dougie
 
+## setup
+
+1. Clone down
+1. CD into it
+1. run `npm install`
+1. run `npm start`
+
 endpoint: `localhost:3001/episodes`
 When you GET to this endpoint, it returns an array of data about the episodes of Season 1 of Lovecraft Country.
 
